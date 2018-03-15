@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo -e "./bin/run-kafka kafka-console-consumer
     --bootstrap-server localhost:29092
     --group workshop_group

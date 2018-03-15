@@ -1,4 +1,6 @@
-echo "docker-compose up -d"
+#! /bin/bash
+
+echo docker-compose up -d
 
 # wait for user input
 echo -e "\nPress enter to run this command"

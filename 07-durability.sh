@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # kill the kafka-3 service using docker-compose
 echo docker-compose kill kafka-3
 # wait for user input

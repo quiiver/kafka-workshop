@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo -e "./bin/run-kafka kafka-consumer-groups
     --bootstrap-server localhost:29092
     --describe

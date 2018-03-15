@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo -e "./bin/run-kafka kafka-topics 
     --zookeeper localhost:32181 
     --describe 

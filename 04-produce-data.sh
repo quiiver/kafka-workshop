@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo -e "cat data/generated.json | 
 bin/run-kafka kafka-console-producer 
     --broker-list localhost:29092 
